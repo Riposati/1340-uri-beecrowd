@@ -1,0 +1,14 @@
+
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(½±¥Çøÿÿÿÿ8óëú¢ë1
+J
+java:S1604"(Make this anonymous inner class a lambda(½±¥Çøÿÿÿÿ8ôëú¢ë1
+m
+java:S1149	"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(¥á‘ü8“ìú¢ë1
+G	java:S1062"+Replace this use of System.out by a logger.(Î´ñ»8–ìú¢ë1
+L	java:S1064"+Replace this use of System.out by a logger.(¼¦³úÿÿÿÿ8–ìú¢ë1
+L	java:S1066"+Replace this use of System.out by a logger.(œ·¾óıÿÿÿÿ8–ìú¢ë1
+G	java:S1068"+Replace this use of System.out by a logger.(ƒŠ€¶8—ìú¢ë1
+G	java:S106:"+Replace this use of System.out by a logger.(±è«ğ8—ìú¢ë1
+K
+java:S1659C")Declare "secondValue" on a separate line.(¾Ş®¹ıÿÿÿÿ8—ìú¢ë1
